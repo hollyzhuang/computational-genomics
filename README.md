@@ -2,6 +2,7 @@
 
 This repository introduces a computational perspective on the exploration and analysis of genomic and genome-scale information. It provides an integrated introduction to genome biology, algorithm design and analysis, and probabilistic and statistical modeling through 7 projects that include genome sequencing, genome sequence assembly, read mapping, local and global sequence alignment, sequence database search, gene finding, phylogenetic tree construction, and elementary gene expression analysis. Methods include dynamic programming, indexing, hidden Markov models, and elementary supervised machine learning. The projects focus on foundational algorithmic principles and development of practical experience with handling, analyzing, and visualizing genomic data using the computer language Python.
 
+** For specific project files, check each project branch.
 
 # Project 1: Analyze Biological Sequences
 
